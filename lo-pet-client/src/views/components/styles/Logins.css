@@ -1,0 +1,25 @@
+.login-page {
+  position: fixed;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+.email-input {
+  margin: 10px;
+}
+.password-input {
+  margin: 10px;
+}
+.login-signup-btn {
+  margin: 10px;
+}
+.forget-password {
+  margin: 10px;
+  font-size: 0.8rem;
+}
+.login-btn {
+  margin: 5px;
+}
+.signup-btn {
+  margin: 5px;
+}
