@@ -1,6 +1,13 @@
+.background {
+  background-image: url('./img/cat-1.jpg');
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .login-page {
   position: fixed;
-  top: 50%;
+  top: 70%;
   width: 100%;
   text-align: center;
 }
@@ -16,6 +23,10 @@
 .forget-password {
   margin: 10px;
   font-size: 0.8rem;
+}
+a {
+  text-decoration: none;
+  color: palevioletred;
 }
 .login-btn {
   margin: 5px;
